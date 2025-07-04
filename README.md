@@ -5,7 +5,11 @@ I used a pretrained model trained using Teachable Machine. The model was trained
 
 dog
 ![Screenshot 2025-07-04 221120](https://github.com/user-attachments/assets/43f366eb-d550-4607-a9ac-a0f5ecfe7aa1)
+
+
 cat
 ![Screenshot 2025-07-04 221146](https://github.com/user-attachments/assets/b161871f-db7a-454d-8d76-243662005ed7)
+
+
 both
 ![Screenshot 2025-07-04 221213](https://github.com/user-attachments/assets/9ecdfd30-9427-4971-ae99-2fefc6f37769)
